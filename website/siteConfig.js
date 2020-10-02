@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'christina-sowah',
-        twitter: '',
+        twitter: '99dreams_',
         github: 'csowah',
     },
 
